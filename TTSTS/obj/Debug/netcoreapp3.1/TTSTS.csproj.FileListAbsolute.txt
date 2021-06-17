@@ -1,0 +1,26 @@
+C:\Files\TTSTS\TTSTS\TTSTS\obj\Debug\netcoreapp3.1\TTSTS.csprojAssemblyReference.cache
+C:\Files\TTSTS\TTSTS\TTSTS\obj\Debug\netcoreapp3.1\TTSTS.AssemblyInfoInputs.cache
+C:\Files\TTSTS\TTSTS\TTSTS\obj\Debug\netcoreapp3.1\TTSTS.AssemblyInfo.cs
+C:\Files\TTSTS\TTSTS\TTSTS\obj\Debug\netcoreapp3.1\TTSTS.csproj.CoreCompileInputs.cache
+C:\Files\TTSTS\TTSTS\TTSTS\bin\Debug\netcoreapp3.1\TTSTS.exe
+C:\Files\TTSTS\TTSTS\TTSTS\bin\Debug\netcoreapp3.1\TTSTS.deps.json
+C:\Files\TTSTS\TTSTS\TTSTS\bin\Debug\netcoreapp3.1\TTSTS.runtimeconfig.json
+C:\Files\TTSTS\TTSTS\TTSTS\bin\Debug\netcoreapp3.1\TTSTS.runtimeconfig.dev.json
+C:\Files\TTSTS\TTSTS\TTSTS\bin\Debug\netcoreapp3.1\TTSTS.dll
+C:\Files\TTSTS\TTSTS\TTSTS\bin\Debug\netcoreapp3.1\TTSTS.pdb
+C:\Files\TTSTS\TTSTS\TTSTS\obj\Debug\netcoreapp3.1\TTSTS.dll
+C:\Files\TTSTS\TTSTS\TTSTS\obj\Debug\netcoreapp3.1\TTSTS.pdb
+C:\Files\TTSTS\TTSTS\TTSTS\obj\Debug\netcoreapp3.1\TTSTS.genruntimeconfig.cache
+G:\Computer Reset\Files\Copies\Old Files\TTSTS V1\TTSTS\bin\Debug\netcoreapp3.1\TTSTS.exe
+G:\Computer Reset\Files\Copies\Old Files\TTSTS V1\TTSTS\bin\Debug\netcoreapp3.1\TTSTS.deps.json
+G:\Computer Reset\Files\Copies\Old Files\TTSTS V1\TTSTS\bin\Debug\netcoreapp3.1\TTSTS.runtimeconfig.json
+G:\Computer Reset\Files\Copies\Old Files\TTSTS V1\TTSTS\bin\Debug\netcoreapp3.1\TTSTS.runtimeconfig.dev.json
+G:\Computer Reset\Files\Copies\Old Files\TTSTS V1\TTSTS\bin\Debug\netcoreapp3.1\TTSTS.dll
+G:\Computer Reset\Files\Copies\Old Files\TTSTS V1\TTSTS\bin\Debug\netcoreapp3.1\TTSTS.pdb
+G:\Computer Reset\Files\Copies\Old Files\TTSTS V1\TTSTS\obj\Debug\netcoreapp3.1\TTSTS.csprojAssemblyReference.cache
+G:\Computer Reset\Files\Copies\Old Files\TTSTS V1\TTSTS\obj\Debug\netcoreapp3.1\TTSTS.AssemblyInfoInputs.cache
+G:\Computer Reset\Files\Copies\Old Files\TTSTS V1\TTSTS\obj\Debug\netcoreapp3.1\TTSTS.AssemblyInfo.cs
+G:\Computer Reset\Files\Copies\Old Files\TTSTS V1\TTSTS\obj\Debug\netcoreapp3.1\TTSTS.csproj.CoreCompileInputs.cache
+G:\Computer Reset\Files\Copies\Old Files\TTSTS V1\TTSTS\obj\Debug\netcoreapp3.1\TTSTS.dll
+G:\Computer Reset\Files\Copies\Old Files\TTSTS V1\TTSTS\obj\Debug\netcoreapp3.1\TTSTS.pdb
+G:\Computer Reset\Files\Copies\Old Files\TTSTS V1\TTSTS\obj\Debug\netcoreapp3.1\TTSTS.genruntimeconfig.cache
